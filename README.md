@@ -41,4 +41,4 @@ I'm an Expert in the field of **Mobile** development. I’m also an **Open-Sourc
 
 - [Become a sponsor](https://github.com/sponsors/hikecoder)
 
-<img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square&label=visitors" align="right" />
+<img src="https://komarev.com/ghpvc/?username=hikecoder&color=blue&style=flat-square&label=visitors" align="right" />
