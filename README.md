@@ -20,8 +20,6 @@ I'm an Expert in the field of **Mobile** development. I’m also an **Open-Sourc
 <br/>
 <br/>
 
-- 🗼 Living in **Texas, US**
-
 - ✈️ Open to Remote Job Opportunities 🍻
 
 <br/>
