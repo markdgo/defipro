@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-I'm an Expert in the field of **Mobile App, Blockchain** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/hikecoder?tab=repositories).
+I'm an Expert in the field of **Mobile App, Blockchain** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/barttdev?tab=repositories).
 <br/>
 <br/>
 
@@ -27,16 +27,16 @@ I'm an Expert in the field of **Mobile App, Blockchain** development. I’m also
 ### 📈 GitHub Stats
 
 
-<a href="https://github.com/hikecoder?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hikecoder&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="hikecoder's github stats" />
+<a href="https://github.com/barttdev?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barttdev&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="barttdev's github stats" />
 </a>
-<a href="https://github.com/hikecoder?tab=repositories">
+<a href="https://github.com/barttdev?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikecoder&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barttdev&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=8" />
 </a>
 
 ### ♡ Top Sponsors
 
-- [Become a sponsor](https://github.com/sponsors/hikecoder)
+- [Become a sponsor](https://github.com/sponsors/barttdev)
 
-<img src="https://komarev.com/ghpvc/?username=hikecoder&color=blue&style=flat-square&label=visitors" align="right" />
+<img src="https://komarev.com/ghpvc/?username=barttdev&color=blue&style=flat-square&label=visitors" align="right" />
