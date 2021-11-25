@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-I'm an Expert in the field of **Mobile App, Blockchain** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/defipro?tab=repositories).
+I'm an Expert in the field of **Blockchain, Backend and Mobile App** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/defipro?tab=repositories).
 <br/>
 <br/>
 
